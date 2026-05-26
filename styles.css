@@ -1,1 +1,33 @@
+@font-family {
+  src: url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+  font-family: 'Raleway';
+}
 
+:root {
+  --blue-200: hsl(243, 100%, 93%);
+  --grayish-blue: hsl(229, 7%, 55%);
+  --blue-850: hsl(228, 56%, 26%);
+  --blue-950: hsl(229, 57%, 11%);
+}
+
+html {
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  background-color: var(--blue-950);
+  color: var(--blue-200);
+  font-size: 1rem;
+  margin: 0;
+}
+
+.container {
+  
+}
