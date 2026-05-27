@@ -31,8 +31,8 @@ body {
 .container {
   background: url("bg-desktop.png") no-repeat bottom;
   background-size: contain;
-/*  display: grid; */
-/*  align-items: center; */
+  display: grid;
+  align-items: center;
 /*  grid-template-rows: maxmax(15.625rem, 1fr) 7.5rem; */
   height: 100vh;
 }
