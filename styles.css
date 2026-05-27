@@ -29,7 +29,7 @@ body {
 }
 
 .container {
-  background-image: url("bg-desktop.png") no-repeat bottom;
+  background: url("bg-desktop.png") no-repeat bottom;
   background-size: contain;
   display: grid;
   align-items: center;
