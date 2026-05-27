@@ -29,5 +29,6 @@ body {
 }
 
 .container {
-  
+  background-image: url("bg-desktop") no-repeat bottom;
+  background-size: contain;
 }
