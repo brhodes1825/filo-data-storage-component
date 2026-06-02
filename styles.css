@@ -51,7 +51,7 @@ body {
 }
 
 .navigation {
-  background: var(--blue-850);
+  background-color: var(--blue-850);
   padding: 2rem;
 }
 
