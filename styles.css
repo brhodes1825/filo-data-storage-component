@@ -37,6 +37,12 @@ body {
   height: 100vh;
   justify-content: stretch;
   justify-items: center;
+  padding: 1.5rem;
+  width: 100%;
+}
+
+.card {
+  display: flex;
 }
 
 
