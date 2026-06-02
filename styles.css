@@ -42,7 +42,16 @@ body {
 }
 
 .card {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  justify-content: stretch;
+  align-items: end;
+  max-width: 60rem;
+  gap: 1.5rem;
 }
 
+.navigation {
+  background: var(--blue-850);
+  padding: 2rem;
+}
 
