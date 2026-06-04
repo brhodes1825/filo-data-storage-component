@@ -57,6 +57,9 @@ body {
   display: grid;
   grid-template-rows: 1fr 1fr;
   gap: 1.5rem;
+  justify-content: stretch;
+  min-height: 10.938rem;
+  min-width: 10.938rem;
 }
 
  .logo {
