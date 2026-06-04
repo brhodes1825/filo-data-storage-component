@@ -108,3 +108,13 @@ body {
 	height: 1.25rem;
 	border-radius: 1.25rem;
 }
+
+.range-indicator {
+	background: linear-gradient(to-right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+	border-radius: 1.25rem;
+	display: flex;
+	flex-direction: row-reverse;
+	width: 81.5%;
+	height: 1rem;
+	margin: .125rem;
+}
