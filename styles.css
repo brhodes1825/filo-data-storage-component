@@ -144,3 +144,20 @@ body {
 	font-size: 1.125rem;
 	font-weight: bold;
 }
+
+.details-remaining:before {
+	border-top: .625rem solid var(--blue-200);
+	border-right: .625rem solid var(--blue-200);
+	border-botom: .625rem solid transparent;
+	border-let: .625rem solid transparent;
+	content: "";
+	position: absolute;
+	right: 0px;
+	top: 3.938rem;
+}
+
+.details-remaining {
+	align-self: flex-end;
+	right: 1.5rem;
+	top: 1.5rem;
+}
