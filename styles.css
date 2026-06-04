@@ -96,3 +96,15 @@ body {
 	width: 100%;
 	padding: 1.5rem;
 }
+
+.details-range {
+	display: flex;
+	justify-content: space-between;
+}
+
+.range-indicator-container {
+	background-color: var(--blue-950);
+	margin: .75rem 0;
+	height: 1.25rem;
+	border-radius: 1.25rem;
+}
