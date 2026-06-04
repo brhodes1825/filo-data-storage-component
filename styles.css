@@ -53,12 +53,12 @@ body {
 .navigation {
   background-color: var(--blue-850);
   padding: 2rem 4rem 2rem 2rem;
-  border-radius: .313rem 1rem .313rem .313rem;
+  border-radius: .313rem 15rem .313rem .313rem;
 }
 
-.navigation img {
+.navigation img:first-of-type {
   height: 2rem;
-  width: 5rem;
+  width: 6rem;
   margin-bottom: 1.5rem;
 }
 
