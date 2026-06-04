@@ -118,3 +118,11 @@ body {
 	height: 1rem;
 	margin: .125rem;
 }
+
+.range-point {
+	background-color: var(--blue-200);
+	border-radius: 1.25rem;
+	height: .75rem;
+	width: .75rem;
+	margin: .063rem;
+}
