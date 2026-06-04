@@ -82,3 +82,17 @@ body {
   padding: .75rem;
 }
 
+.details-wrapper {
+	display: flex;
+	flex-direction: column;
+}
+
+.details-container {
+	background-color: var(--blue-850);
+	border-radius: .5rem;
+	display: grid;
+	grid-template-rows: 1fr 1fr;
+	min-height: 7.813rem;
+	width: 100%;
+	padding: 1.5rem;
+}
