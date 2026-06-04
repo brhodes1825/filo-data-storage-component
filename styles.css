@@ -126,3 +126,16 @@ body {
 	width: .75rem;
 	margin: .063rem;
 }
+
+.details-remaining {
+	background: var(--blue-200);
+	color: var(--blue-950);
+	max-width: 10.313rem;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	border-radius: .25rem;
+	padding: 1.125rem;
+	gap: .25rem;
+	position: relative;
+}
