@@ -167,12 +167,14 @@ body {
 		background: url("bg-mobile.png") no-repeat center;
 		grid-template-rows: 1fr 1fr;
 		justify-content: center;
+		align-items: center;
 	}
 
 	.card {
 		grid-template-columns: 1fr;
 		gap: 1rem;
 		align-items: center;
+		justify-content: center;
 	}
 
 	.details-wrapper {
@@ -186,8 +188,8 @@ body {
 
 	.details-remaining {
 		justify-content: center;
-		margin-top: -2rem;
-		width: 70%;
+		margin-top: -3rem;
+		width: 15rem;
 	}
 
 	.details-remaining:before {
@@ -195,6 +197,6 @@ body {
 	}
 
 	.details-remaining span {
-		font-size: 3rem;
+		font-size: 2.5rem;
 	}
 }
