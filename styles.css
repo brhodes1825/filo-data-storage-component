@@ -166,6 +166,7 @@ body {
 	.container {
 		background: url("bg-mobile.png") no-repeat center;
 		grid-template-rows: 1fr 1fr;
+		justify-content: center;
 	}
 
 	.card {
@@ -181,7 +182,8 @@ body {
 
 	.details-remaining {
 		justify-content: center;
-		margin-top: -1.5rem;
+		margin-top: -2rem;
+		width: 60%;
 	}
 
 	.details-remaining:before {
@@ -189,6 +191,6 @@ body {
 	}
 
 	.details-remaining span {
-		font-size: 2rem;
+		font-size: 3rem;
 	}
 }
