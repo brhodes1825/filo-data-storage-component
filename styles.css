@@ -191,7 +191,7 @@ body {
 		justify-content: center;
 		margin-top: -3rem;
 		width: 25rem;
-		align-self: unset;
+		align-self: center;
 	}
 
 	.details-remaining:before {
