@@ -171,5 +171,15 @@ body {
 	.card {
 		grid-template-columns: 1fr;
 		gap: 1rem;
+		align-items: center;
+	}
+
+	.details-wrapper {
+		display: flex;
+		flex-direction: column-reverse;
+	}
+
+	.details-remaining {
+		justify-content: center;
 	}
 }
