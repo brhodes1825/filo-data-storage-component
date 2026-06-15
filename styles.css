@@ -189,7 +189,7 @@ body {
 	.details-remaining {
 		justify-content: center;
 		margin-top: -3rem;
-		width: 15rem;
+		width: 25rem;
 	}
 
 	.details-remaining:before {
