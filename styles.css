@@ -176,6 +176,8 @@ body {
 		gap: 1rem;
 		align-items: center;
 		justify-content: center;
+		max-width: unset;
+		width: 100vw;
 	}
 
 	.details-wrapper {
