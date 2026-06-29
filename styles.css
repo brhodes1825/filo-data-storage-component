@@ -169,7 +169,6 @@ body {
 		grid-template-rows: 1fr 1fr;
 		justify-content: center;
 		align-items: center;
-		place-items: center;
 	}
 
 	.card {
@@ -177,6 +176,7 @@ body {
 		gap: 1rem;
 		align-items: center;
 		justify-content: center;
+		place-items: center;
 		max-width: unset;
 		width: 100vw;
 	}
