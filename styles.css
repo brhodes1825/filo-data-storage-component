@@ -178,8 +178,8 @@ body {
 		justify-content: center;
 		place-items: center;
 		max-width: unset;
-		width: 100vw;
-		height: 100vh;
+		/* width: 100vw;
+		height: 100%; */
 	}
 
 	.details-wrapper {
