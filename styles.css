@@ -169,6 +169,7 @@ body {
 		grid-template-rows: 1fr 1fr;
 		justify-content: center;
 		align-items: center;
+		place-items: center;
 	}
 
 	.card {
